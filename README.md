@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0a4825b4-e09d-4b38-95ee-f98ab8c2c046" width="130" style="border-radius: 50%;" />
+</p>
 <h1 align="center">Gargeyi</h1>
 
 <p align="center">
