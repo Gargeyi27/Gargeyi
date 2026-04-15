@@ -19,7 +19,7 @@ AI Engineer · M.Tech (Artificial Intelligence & Data Science) · Multi-Agent LL
 
 ---
 
-## 👋 Introduction
+##  Introduction
 
 Hi, I'm Gargeyi — an AI Engineer building real-world AI systems using multi-agent LLM architectures.
 
@@ -29,7 +29,7 @@ Currently, I’m building and optimizing AI applications with an emphasis on rel
 
 ---
 
-## 🧠 About
+##  About
 
 I build AI systems that operate reliably beyond demos — focusing on multi-agent LLM architectures, system performance, and deployment constraints.
 
@@ -39,9 +39,9 @@ I’m particularly interested in:
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 🧩 Clariva — AI Career Intelligence System  
+###  Clariva — AI Career Intelligence System  
 [GitHub](https://github.com/Gargeyi27/Clariva-Career-AI-Intelligence-System) · [Live Demo](https://future-forge-clariva.lovable.app/)
 
 - Resume analysis and structured scoring  
@@ -52,7 +52,7 @@ I’m particularly interested in:
 
 ---
 
-### 🍳 Quantum AI Cooking Assistant  
+###  Quantum AI Cooking Assistant  
 [GitHub](https://github.com/Gargeyi27/quantum-ai-chef) · [Live Demo](http://ec2-3-26-244-79.ap-southeast-2.compute.amazonaws.com:8501/)
 
 - LLM + quantum-inspired system for recipe generation  
@@ -62,7 +62,7 @@ I’m particularly interested in:
 
 ---
 
-### 🧬 Forensic AI Crime Reconstruction  
+###  Forensic AI Crime Reconstruction  
 [GitHub](https://github.com/Gargeyi27/forensic-ai-crime-reconstruction)
 
 - CNN-based fingerprint matching and blood pattern detection  
@@ -82,7 +82,7 @@ I’m particularly interested in:
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gargeyi27&show_icons=true" />
@@ -90,7 +90,7 @@ I’m particularly interested in:
 
 ---
 
-## 🤝 Contact
+##  Contact
 
-- 💼 LinkedIn: https://www.linkedin.com/in/naga-gargeyi-adimulam-46bb11215  
-- 📧 Email: nagagargeyi@gmail.com    
+-  LinkedIn: https://www.linkedin.com/in/naga-gargeyi-adimulam-46bb11215  
+-  Email: nagagargeyi@gmail.com    
