@@ -38,7 +38,7 @@ I build AI systems that operate reliably beyond demos — focusing on multi-agen
 ##  Projects
 
 ###  Clariva — AI Career Intelligence System  
- [GitHub](https://github.com/Gargeyi27/Clariva-Career-AI-Intelligence-System) · 🌐 [Live Demo](https://future-forge-clariva.lovable.app/)
+ [GitHub](https://github.com/Gargeyi27/Clariva-Career-AI-Intelligence-System) ·  [Live Demo](https://future-forge-clariva.lovable.app/)
 
 - Resume analysis and structured scoring  
 - Skill-gap detection based on job roles  
@@ -49,7 +49,7 @@ I build AI systems that operate reliably beyond demos — focusing on multi-agen
 ---
 
 ###  Quantum AI Cooking Assistant  
- [GitHub](https://github.com/Gargeyi27/quantum-ai-chef) · 🌐 [Live Demo](http://ec2-3-26-244-79.ap-southeast-2.compute.amazonaws.com:8501/)
+ [GitHub](https://github.com/Gargeyi27/quantum-ai-chef) ·  [Live Demo](http://ec2-3-26-244-79.ap-southeast-2.compute.amazonaws.com:8501/)
 
 - LLM + quantum-inspired system for recipe generation  
 - Deployed on AWS EC2 under constrained resources  
