@@ -72,7 +72,7 @@ I’m particularly interested in:
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **AI/ML:** CNNs, OpenCV, Scikit-learn, TensorFlow  
 **LLMs:** Multi-Agent Systems, RAG, LangChain, Ollama  
