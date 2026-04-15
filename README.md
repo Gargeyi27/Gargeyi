@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0a4825b4-e09d-4b38-95ee-f98ab8c2c046" width="130" style="border-radius: 50%;" />
-</p>
-
 <h1 align="center">Gargeyi</h1>
 
 <p align="center">
@@ -33,7 +29,7 @@ Currently, I’m building and optimizing AI applications with an emphasis on rel
 
 I build AI systems that operate reliably beyond demos — focusing on multi-agent LLM architectures, system performance, and deployment constraints.
 
-I’m particularly interested in:
+**Interests:**
 - AI systems designed for real-world reliability  
 - Quantum-inspired approaches to improve AI system behavior  
 
@@ -42,18 +38,18 @@ I’m particularly interested in:
 ##  Projects
 
 ###  Clariva — AI Career Intelligence System  
-[GitHub](https://github.com/Gargeyi27/Clariva-Career-AI-Intelligence-System) · [Live Demo](https://future-forge-clariva.lovable.app/)
+ [GitHub](https://github.com/Gargeyi27/Clariva-Career-AI-Intelligence-System) · 🌐 [Live Demo](https://future-forge-clariva.lovable.app/)
 
 - Resume analysis and structured scoring  
 - Skill-gap detection based on job roles  
 - Real-time mock interviews with feedback  
-- Reduced latency from **110s → 30s (73%)** through pipeline redesign  
+- Reduced latency from **110s → 30s (73%)**  
 - Implemented rate limiting, XSS protection, and prompt-injection filtering  
 
 ---
 
 ###  Quantum AI Cooking Assistant  
-[GitHub](https://github.com/Gargeyi27/quantum-ai-chef) · [Live Demo](http://ec2-3-26-244-79.ap-southeast-2.compute.amazonaws.com:8501/)
+ [GitHub](https://github.com/Gargeyi27/quantum-ai-chef) · 🌐 [Live Demo](http://ec2-3-26-244-79.ap-southeast-2.compute.amazonaws.com:8501/)
 
 - LLM + quantum-inspired system for recipe generation  
 - Deployed on AWS EC2 under constrained resources  
@@ -63,7 +59,7 @@ I’m particularly interested in:
 ---
 
 ###  Forensic AI Crime Reconstruction  
-[GitHub](https://github.com/Gargeyi27/forensic-ai-crime-reconstruction)
+ [GitHub](https://github.com/Gargeyi27/forensic-ai-crime-reconstruction)
 
 - CNN-based fingerprint matching and blood pattern detection  
 - Physics-based trajectory simulation  
@@ -92,5 +88,5 @@ I’m particularly interested in:
 
 ##  Contact
 
--  LinkedIn: https://www.linkedin.com/in/naga-gargeyi-adimulam-46bb11215  
--  Email: nagagargeyi@gmail.com    
+- LinkedIn: https://www.linkedin.com/in/naga-gargeyi-adimulam-46bb11215  
+-  Email: nagagargeyi@gmail.com     
